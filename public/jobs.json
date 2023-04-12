@@ -1,0 +1,121 @@
+ [
+      {
+        "id": "1",
+        "company_logo": "https://img.freepik.com/premium-vector/google-search-logo_578229-273.jpg?size=626&ext=jpg&ga=GA1.2.22790850.1672689404&semt=ais",
+        "job_title": "Software Engineer",
+        "company_name": "Google",
+        "remote_or_onsite": "Remote",
+        "location": "Dublin, Ireland",
+        "address":"32 castel Road, Dublin",
+        "fulltime_or_parttime": "Part-time",
+        "salary": "100,000 - 120,000 per year",
+        "job_description": "Example Company 1 is seeking a skilled software engineer to join our team. The ideal candidate will have experience with Java and Python, as well as strong problem-solving skills and the ability to work in a team environment.",
+        "job_responsibility": "- Develop and maintain software applications\n- Write clean, efficient, and well-documented code\n- Collaborate with cross-functional teams to identify and solve complex problems\n- Participate in code reviews and contribute to the team's coding standards",
+        "educational_requirements": "Bachelor's degree in computer science or related field",
+        "experiences": "3+ years of professional software development experience",
+       
+          "phone": "57762566",
+          "email": "example1@example.com"
+        
+      },
+      {
+        "id": "2",
+        "company_logo": "https://tse2.mm.bing.net/th?id=OIP.tCtzM0Wvgtn61QAuBs7UbAHaD2&pid=Api&P=0",
+        "job_title": "Data Scientist",
+        "company_name": "Netflix",
+        "remote_or_onsite": "Onsite",
+        "location": "New York, NY",
+        "address":"92 jamaica, Ny",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "120,000 - 140,000 per year",
+        "job_description": "Example Company 2 is seeking a data scientist with experience in machine learning and statistical analysis. The ideal candidate will have a strong background in computer science, mathematics, or a related field, as well as the ability to work in a team environment.",
+        "job_responsibility": "- Develop and maintain predictive models\n- Conduct statistical analyses of data\n- Collaborate with cross-functional teams to identify and solve complex problems\n- Communicate findings to stakeholders",
+        "educational_requirements": "Master's or PhD in computer science, mathematics, or related field",
+        "experiences": "5+ years of experience in data science or related field",
+        
+          "phone": "555-587826875",
+          "email": "example2@example.com"
+        
+      },
+      {
+        "id": "3",
+        "company_logo": "https://img.freepik.com/premium-vector/ev-charging-mobile-app-icon-digital-application-find-charging-stations-electric-vehicles_32996-2221.jpg?size=626&ext=jpg&ga=GA1.1.22790850.1672689404&semt=ais",
+        "job_title": "Marketing Manager",
+        "company_name": "Tesla",
+        "remote_or_onsite": "Remote",
+        "location": "Helsinki, Finland",
+        "address":"kitarakuja 1b, Helsinki",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "80,000 - 100,000 per year",
+        "job_description": "Example Company 3 is seeking a marketing manager with experience in digital marketing and content creation. The ideal candidate will have excellent communication skills and a proven track record of successful marketing campaigns.",
+        "job_responsibility": "- Develop and implement marketing strategies\n- Create and manage digital content\n- Analyze campaign performance and adjust strategies accordingly\n- Collaborate with cross-functional teams to identify and solve complex problems",
+        "educational_requirements": "Bachelor's degree in marketing or related field",
+        "experiences": "3+ years of experience in marketing or related field",
+     
+            "phone": "555-587826875",
+            "email": "example3@example.com"
+        
+          },
+      {
+        "id": "4",
+        "company_logo": "https://tse1.mm.bing.net/th?id=OIP.HJqgNVedQGmYF4Pp2ZuswwHaE9&pid=Api&P=0",
+        "job_title": "Marketing Manager",
+        "company_name": "Amazon",
+        "remote_or_onsite": "Onsite",
+        "location": "Oslo, Norway",
+        "address":"pohjos kaari 6d, Oslo",
+        "fulltime_or_parttime": "Part-time",
+        "salary": "70,000 - 100,000 per year",
+        "job_description": "Example Company 3 is seeking a marketing manager with experience in digital marketing and content creation. The ideal candidate will have excellent communication skills and a proven track record of successful marketing campaigns.",
+        "job_responsibility": "- Develop and implement marketing strategies\n- Create and manage digital content\n- Analyze campaign performance and adjust strategies accordingly\n- Collaborate with cross-functional teams to identify and solve complex problems",
+        "educational_requirements": "Bachelor's degree in marketing or related field",
+        "experiences": "5+ years of experience in marketing or related field",
+        
+            "phone": "555-587826875",
+            "email": "example4@example.com"
+        
+          },
+      {
+        "id": "5",
+        "company_logo": "https://img.freepik.com/free-psd/3d-square-with-facebook-logo_125540-1565.jpg?size=626&ext=jpg&ga=GA1.1.22790850.1672689404&semt=ais",
+        "job_title": "Marketing Manager",
+        "company_name": "Facebook",
+        "remote_or_onsite": "Remote",
+        "location": "Dublin, Ireland",
+        "address":"23 grand Road, Dublin",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "60,000 - 100,000 per year",
+        "job_description": "Example Company 3 is seeking a marketing manager with experience in digital marketing and content creation. The ideal candidate will have excellent communication skills and a proven track record of successful marketing campaigns.",
+        "job_responsibility": "- Develop and implement marketing strategies\n- Create and manage digital content\n- Analyze campaign performance and adjust strategies accordingly\n- Collaborate with cross-functional teams to identify and solve complex problems",
+        "educational_requirements": "Bachelor's degree in marketing or related field",
+        "experiences": "1+ years of experience in marketing or related field",
+       
+            "phone": "555-587826875",
+            "email": "example5@example.com"
+        
+          },
+      {
+        "id": "6",
+        "company_logo": "https://img.freepik.com/free-icon/linkedin_318-187585.jpg?size=626&ext=jpg&ga=GA1.1.22790850.1672689404&semt=ais",
+        "job_title": "Marketing Manager",
+        "company_name": "Linkdin",
+        "remote_or_onsite": "Onsite",
+        "location": "Dhaka, Bangladesh",
+        "address":"33 khilga, Dahka",
+        "fulltime_or_parttime": "Part-time",
+        "salary": "90,000 - 100,000 per year",
+        "job_description": "Example Company 3 is seeking a marketing manager with experience in digital marketing and content creation. The ideal candidate will have excellent communication skills and a proven track record of successful marketing campaigns.",
+        "job_responsibility": "- Develop and implement marketing strategies\n- Create and manage digital content\n- Analyze campaign performance and adjust strategies accordingly\n- Collaborate with cross-functional teams to identify and solve complex problems",
+        "educational_requirements": "Bachelor's degree in marketing or related field",
+        "experiences": "2+ years of experience in marketing or related field",
+        
+            "phone": "555-587826875",
+            "email": "example6@example.com"
+        
+          }
+
+        ]
+
+
+      
+  

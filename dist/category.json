@@ -1,0 +1,23 @@
+[
+   {
+     "logo": "https://i.ibb.co/j4rW2B8/accounts-1.png",
+     "name": "Account & Finance",
+     "jobs": 500
+   },
+   {
+     "logo": "https://i.ibb.co/cY6rwrj/business-1.png",
+     "name": "Creative Design",
+     "jobs": 300
+   },
+   {
+     "logo": "https://i.ibb.co/Wns3xTy/social-media-1.png",
+     "name": "Marketing & Sales",
+     "jobs": 200
+   },
+   {
+     "logo": "https://i.ibb.co/zmG0KHs/chip-1.png",
+     "name": "Engineering Job",
+     "jobs": 100
+   }
+ ]
+ 
